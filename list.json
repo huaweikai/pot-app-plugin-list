@@ -169,6 +169,22 @@
     "url": "https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1",
     "offical": false,
     "illegal": false
+    },
+    {
+      "name": "pot-app-translate-plugin-huoshan",
+      "desc_en": "Use the AI API of Volcano Ark for translation, and choose your own model for translation in Volcano Ark",
+      "desc_zh": "使用火山方舟的 AI API 进行翻译，在火山方舟自己选择模型进行翻译",
+      "url": "https://github.com/huaweikai/pot-app-translate-plugin-huoshan",
+      "offical": false,
+      "illegal": false
+    },
+    {
+      "name": "pot-app-translate-plugin-qwen",
+      "desc_en": "Translate with Tongyi Qianwen's AI, supporting qwen-plus and qwen-turbo models",
+      "desc_zh": "使用通义千问的 AI 进行翻译，支持 qwen-plus 和 qwen-turbo 模型",
+      "url": "https://github.com/huaweikai/pot-app-translate-plugin-qwen",
+      "offical": false,
+      "illegal": false
     }
   ],
   "recognize": [

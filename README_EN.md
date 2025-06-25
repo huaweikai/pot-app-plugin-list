@@ -47,6 +47,8 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-cohere](https://github.com/omegaduncan/pot-app-translate-plugin-cohere) - Cohere translate plugin
 - [pot-app-translate-plugin-deepseek](https://github.com/Tzulao55/pot-app-translate-plugin-deepseek) - DeepSeek translate plugin
 - [pot-app-translate-plugin-localdeepseek-r1](https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1) - Local DeepSeek-R1 translate plugin (No display of R1 thought process)
+- [pot-app-translate-plugin-huoshan](https://github.com/huaweikai/pot-app-translate-plugin-huoshan) - Volcano Ark API translation plugin
+- [pot-app-translate-plugin-qwen](https://github.com/huaweikai/pot-app-translate-plugin-qwen) - Qwen API translation plugin
 
 ## Recognize
 
